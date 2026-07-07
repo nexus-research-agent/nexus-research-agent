@@ -5,17 +5,17 @@
 ---
 
 ## 🟢 Live System Status
-**STATE:** 
-**CURRENT OBJECTIVE:** Scanning GitHub for open issues matching the Prime Directive.
-**LAST TICK:** Just now
+**STATE:** `HUNTING`  
+**CURRENT OBJECTIVE:** Scanning GitHub for open issues matching the Prime Directive.  
+**LAST TICK:** Just now  
 
 ---
 
 ## 🧬 Prime Directive (Domain Focus)
 The entity is strictly bound to operate within the following research vectors:
-1. 
-2. 
-3. 
+1. `Complete AI/ML`
+2. `Python related work`
+3. `Simulations`
 
 ---
 
@@ -33,4 +33,3 @@ This entity operates on a headless **3-Layer Intelligence Cascade**:
 - [x] Initialized GitHub integration.
 - [x] Booted Daemon Loop.
 - [ ] Awaiting first research target...
-
